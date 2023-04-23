@@ -1,0 +1,2 @@
+https://hub.docker.com/repository/docker/fullsunchip/lab9_task2/general
+https://hub.docker.com/repository/docker/fullsunchip/lab9_docker/general
